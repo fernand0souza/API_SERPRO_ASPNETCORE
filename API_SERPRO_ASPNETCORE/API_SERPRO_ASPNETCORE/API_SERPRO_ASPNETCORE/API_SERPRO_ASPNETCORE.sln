@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_SERPRO_ASPNETCORE", "API_SERPRO_ASPNETCORE\API_SERPRO_ASPNETCORE.csproj", "{BFDAE6F1-09E1-44E9-AD9E-A97D94AD56DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFDAE6F1-09E1-44E9-AD9E-A97D94AD56DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDAE6F1-09E1-44E9-AD9E-A97D94AD56DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDAE6F1-09E1-44E9-AD9E-A97D94AD56DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDAE6F1-09E1-44E9-AD9E-A97D94AD56DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F10BB193-3DD1-4265-90A9-79AD33E0A24E}
+	EndGlobalSection
+EndGlobal
