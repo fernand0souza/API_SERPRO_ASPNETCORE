@@ -5,7 +5,7 @@ SERPRO é uma empresa de tecnologia do Governo Federal com mais de 200 bases de 
 
 ## Getting Started
 
-Essas são instruções de projeto em execução na sua máquina local para fins de desenvolvimento e teste. Consulte implantação para obter notas sobre como implantar o projeto em um sistema ativo.
+Essas são as instruções de projeto em execução na sua máquina local para fins de desenvolvimento e teste. Consulte a implementação para obter notas sobre como implantar o projeto em um sistema ativo.
 
 ## Built With
 
